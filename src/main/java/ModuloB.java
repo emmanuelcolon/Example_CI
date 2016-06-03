@@ -16,4 +16,9 @@ public class ModuloB {
 
         return resultado;
     }
+
+    public void Nose(){
+
+
+    }
 }
