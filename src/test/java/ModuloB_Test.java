@@ -11,7 +11,6 @@ public class ModuloB_Test {
     @Test
     public void test(){
 
-        int i = 0;
 
         ModuloB modulob = new ModuloB();
 
